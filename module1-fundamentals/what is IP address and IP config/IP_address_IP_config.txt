@@ -1,0 +1,60 @@
+What is IP address & IP config?
+
+IP Address: IP address is a numerical representation of each device over the network to communicate over the internet. In simple terms,
+the digital address of your device. It's useful to identify the device and ensure data is sent from one device to the
+second device. IP addresses can also reveal your location that can be used by many marketing, & advertising companies. 
+
+IP addresses can be masked by using the Virtual Private Network (VPN) services. VPN can be used to avoid exposing your original IP 
+address. 
+
+For example, 192.168.1.1
+
+IP Config: IP config is a command line utility provided by Windows & other OS to display & configure TCP/IP network-related 
+settings. 
+
+We can configure all the below using "ipconfig" command:
+- IP address,
+- subnet masks,
+- default gateways
+
+For example, by applying the 'ipconfig' command, I can able to edit the below information:
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter Avast SecureLine VPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv4 Address. . . . . . . . . . . : xxx.xxx.x.x (will display your machine IP address)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : xxx.xxx.x.x
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :

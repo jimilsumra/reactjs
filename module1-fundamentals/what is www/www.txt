@@ -1,0 +1,4 @@
+What is WWW?
+
+Def: World Wide Web (WWW) is a collection of web pages that linkes together with the hyperlinks for navigate between
+them. 

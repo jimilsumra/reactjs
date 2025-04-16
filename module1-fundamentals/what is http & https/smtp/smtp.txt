@@ -1,0 +1,7 @@
+What is SMTP?
+
+Def: The full form of SMTP is the Simple Mail Transfer Protocol. SMTP is a communication protocol to send emails on the network and ensuring
+the email is transferred from the sender's email client to the recipient's mail server. 
+
+SMTP is mainly used by many well-known email providers like Gmail, Yahoo Mail, Outlook etc. Other than some of these well-known email
+providers, other hosting providers also provide the mail server. In this case, SMTP uses the POP3 and IMAP. 

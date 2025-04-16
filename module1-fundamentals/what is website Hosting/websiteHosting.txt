@@ -1,0 +1,14 @@
+What is Web Hosting?
+
+Def: Web Hosting is the service that hosts the website and stores all the website-related files on a server. This can be
+later accessible by the users on the internet.
+
+For example, we have created a website on localhost & we would like to publish the site over the internet. At this stage,
+we required web hosting providers to host our developed website. Once we upload the website content using FTP. After making it live
+the site is available across the world for any users. 
+
+There are different types of web hosting:
+- Shared hosting (most common & reliable, where we share the space along with other website owners)
+- Virtual Private server (VPS) hosting
+- Dedicated Hosting 
+- Cloud Hosting

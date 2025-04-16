@@ -1,0 +1,9 @@
+What is protocol?
+
+Def: In simple terms protocol is a set of rules that defines, how the devices communicate and exchange data.
+
+This rule includes:
+- error handling
+- data formatting
+- smooth & accurate communication
+

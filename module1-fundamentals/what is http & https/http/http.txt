@@ -1,0 +1,5 @@
+What is HTTP?
+
+Def: The full form of HTTP is Hypertext Transfer Protocol. HTTP is a language that is used by browsers and servers to communicate. HTTP is
+also the fundamental protocol used for transferring data across. So whenever the user tries to access the website on the browser then 
+HTTP defines how browsers request and receive the files from the web server. 

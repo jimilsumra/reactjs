@@ -1,0 +1,7 @@
+What is localhost & localhost IP?
+
+Localhost: localhost is the computer that we are using. Localhost allows us to test, debug or build apps & websites. While working
+on the localhost, it doesn't required the internet connection. 
+
+Localhost IP address is typically like 127.0.0.1. This is called loopback address. This means when we request anything to 
+to this IP address then it will direct back to same device and not send any requests to the remote server or network.

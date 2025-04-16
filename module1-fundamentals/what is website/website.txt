@@ -1,0 +1,13 @@
+What is a website?
+
+Def: Website is a collection of web pages that can be accessible via the internet & identified with identical 
+domain name.
+
+The websites could be any of the below types:
+- static 
+- dynamic
+- Single page site,
+- Multiple page site & with more complex page structures. 
+
+Any site will serve images, videos, text, or file content. The content of the web pages can be developed 
+using different or a mixture of programming languages like HTML, CSS, & Javascript, or using CMS. 

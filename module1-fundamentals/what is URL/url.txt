@@ -1,0 +1,7 @@
+What is a URL?
+
+Def: Uniform Resource Locator (URL) is the address of a resource link to the internet that serves the web page, image, or
+document. URL is also known as the web address.
+
+For instance, when we type the URL into the address bar of any web browser then this will serve the resources like HTML pages, CSS,
+images or any other form of documents. 

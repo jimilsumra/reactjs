@@ -1,0 +1,7 @@
+What is Domain?
+
+Def: Domain means the human-readable address to identify & access any website (for instance, google.com, www.xyz.com etc). The naming convention
+of any domain can be anything but must not be the same domain name. Domain names are easier to remember than IP addresses (123.1.0.1)
+
+For example, https://xyz.com/
+

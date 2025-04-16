@@ -1,0 +1,6 @@
+What is POP?
+
+Def: POP means Post Office Protocol. This is the standard protocol email clients use to receive emails from a mail server. We can
+Download the email using this protocol to access the emails from the server and send them to their local machine for offline access. 
+
+For example, the Outlook app uses POP to download emails to the local machine, which can be useful to access emails offline. 

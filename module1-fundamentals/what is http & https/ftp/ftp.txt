@@ -1,0 +1,9 @@
+What is FTP?
+
+Def: FTP is a File Transfer Protocol. FTP is useful for transferring files from computers over TCP/IP networks, like the Internet. FTP works
+based on pre-defined sets of rules for communicating and exchanging files. This protocol uses the client-server model where we
+connect to a particular server using the server IP address, username and password to perform a file transfer.
+
+There are numerous tools available to perform these types of operations. The most common one is FileZilla. 
+
+

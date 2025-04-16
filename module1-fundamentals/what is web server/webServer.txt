@@ -1,0 +1,7 @@
+What is a web Server?
+
+Def: A device/computer that stores the web server software and files like (HTML documents, CSS, images, videos,
+ PDF files or any other content). Web server serves & exchange information upon requests by the devices that 
+ are connected to the internet.
+
+ For Example, Apache web server, IIS web server, apache tomcat etc. 

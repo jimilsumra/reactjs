@@ -1,0 +1,8 @@
+What is W3c?
+
+Def: The W3C (World Wide Web Consortium) is an international organization. This organization defines the web standards.
+These web standards are essential for web functionality. Standards include the web page & data structure, rendered,
+and exchanged across different devices & platforms.
+
+For instance, HTML, CSS & WebRTC (Web Real-time communication)
+

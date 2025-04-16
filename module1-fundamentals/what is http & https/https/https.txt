@@ -1,0 +1,4 @@
+What is HTTPS?
+Def: The full form of HTTPS is Hypertext Transfer Protocol Secure. HTTPS is used to encrypt the data between the user browser
+and the website server. HTTPS is widely used by many companies, banks, web applications, & websites. Normally, this type of site can 
+be easily identified by seeing the green lock sign on the browser's URL.

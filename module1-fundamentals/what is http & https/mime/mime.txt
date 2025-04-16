@@ -1,0 +1,15 @@
+What is MIME?
+
+Def: MIME (Multipurpose Internet Mail Extension). It allows us to send & receive various multimedia file types like images, audio, and video
+within email messages. MIME is widely used by most email service providers & clients. 
+
+MIME messages can be placed in headers that basically provide the information like, message, content, and body parts of the actual mail 
+content. 
+
+For example, MIME required all the below information when adding the MIME type in the header:
+1. MIME version
+2. Content type
+3. Content Transfer-Encoding
+4. Content id
+5. Content Description. 
+
